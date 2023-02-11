@@ -452,6 +452,7 @@ footer .footer__content .footer__links .footer__social__links img svg {
   gap: 5vw;
 }
 .clients .clients__container .client {
+  color: rgb(244, 28, 28);
   display: flex;
   justify-content: center;
   align-items: center;
